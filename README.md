@@ -1,1 +1,1 @@
-# ** QuickBite Express ** 1st Sem Project
+# **QuickBite Express** 1st Sem Project
